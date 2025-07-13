@@ -40,7 +40,7 @@
 ## How to Use
 
 1. **Download or clone** the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `https://goalquick.tiiny.site` file in your preferred web browser.
 3. Interact with the features:
    - Check the live clock.
    - Add and manage your tasks.
